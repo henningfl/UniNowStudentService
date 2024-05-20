@@ -1,0 +1,2 @@
+Der UniNowStudentService ermöglicht es, Daten zu Studierenden für die UniNow App aus HISinOne über einen SOAP-Service zur Verfügung zu stellen.
+Werden die bereitgestellten Dateien in /WEB-INF/conf/hisservices/ bzw. /WEB-INF/conf/hisservices/scripts/ der HISinOne-Installation hinterlegt und der Webservice generiert, so kann die UniNow App diese Daten unter Verwendung eines berechtigten Benutzers abrufen.
